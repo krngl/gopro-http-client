@@ -6,6 +6,7 @@
     "esModuleInterop": true,
     "declarationMap": true,
     "declaration": true,
-    "isolatedModules": true
+    "isolatedModules": true,
+    "types": ["node", "jest"]
   }
 }
